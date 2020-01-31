@@ -6,5 +6,6 @@ public class Class1
         Console.WriteLine("Welcome to GitHub");
         Console.WriteLine("Updated File");
         Console.WriteLine("Remove Comments");
+        Console.WriteLine("Added Components");
     }
 }
